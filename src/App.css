@@ -1,0 +1,42 @@
+#root {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  /* text-align: center; */
+}
+
+.conteiner {
+  margin-top: 30px;
+  display: flex;
+  width: 100%;
+}
+
+.name-list {
+  margin-top: 15px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.active {
+  margin-top: 15px;
+  font-size: 22px;
+  cursor: pointer;
+  color:aliceblue;
+  background-color: blue;
+}
+
+.users {
+  margin-left: 10%;
+  width: 40%;
+}
+
+.user {
+  margin-left: 10%;
+  /* width: 40%; */
+}
+
+.name {
+  font-size: 22px;
+}
+
